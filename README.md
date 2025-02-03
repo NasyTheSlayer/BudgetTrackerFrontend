@@ -1,6 +1,6 @@
 # budgetTracker
 
-- [DEMO LINK](https://nasytheslayer.github.io/budgetTracker-frontend/)
+- [DEMO LINK](https://nasytheslayer.github.io/BudgetTrackerFrontend/)
 
 ## General info
 The budget management website is a comprehensive full-stack application designed to empower users in effectively controlling their finances. With a user-friendly interface, individuals can effortlessly set, track, and manage their budgets, log financial transactions, and categorize spending for better organization. Combining the strength of backend and frontend technologies, this application ensures data security while providing insights into users' financial habits and overall health. The intuitive design and additional tools contribute to a seamless and enjoyable user experience.
