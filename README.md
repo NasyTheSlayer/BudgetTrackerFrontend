@@ -28,12 +28,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/budgetTracker-frontend
+$ git clone https://github.com/NasyTheSlayer/BudgetTrackerFrontend
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code budgetTracker-frontend
+$ code BudgetTrackerFrontend
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
